@@ -156,7 +156,7 @@ while(i < backwards.length){
   
   while(i < 6){
     
-    if(1 < 3){
+    if(i < 3){
       emptyArray.unshift(i*10);
 
     }
